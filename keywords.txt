@@ -3,7 +3,7 @@ setDCpin	KEYWORD2
 setxyTH	KEYWORD2
 get_xym_val	KEYWORD2
 get_xym_state	KEYWORD2
-get_xym_press_release	KEYWORD2
+data_update	KEYWORD2
 xval	KEYWORD2
 yval	KEYWORD2
 mval	KEYWORD2
